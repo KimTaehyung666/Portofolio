@@ -14,3 +14,8 @@
 .primary.wa{margin-top:26px}
 .nav button,.menu-btn{font-size:13px}.kicker,.eyebrow,.availability,.project-meta p,.filters button{font-size:11px}
 .tag-row span,.skill-list span,.contact-links,.service-grid a{font-size:11px}form label{font-size:12px}.site>footer{font-size:11px}
+
+.art-card.art-back,.art-card.art-front{padding:0;display:block;background:var(--ink);border:1px solid #ffffff22;box-shadow:0 18px 40px #0007}
+.art-card img{width:100%;height:100%;object-fit:cover;object-position:top;display:block}
+.art-card.art-back{width:230px;height:290px;right:40px;top:10px}
+@media(max-width:760px){.art-card.art-back{width:150px;height:200px;right:12px;top:0}}
