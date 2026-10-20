@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#0b0d12"/>
+  <g stroke="#1b202b" stroke-width="1">
+    <path d="M0 150H1200M0 300H1200M0 450H1200M0 600H1200M0 750H1200"/>
+    <path d="M200 0V900M400 0V900M600 0V900M800 0V900M1000 0V900"/>
+  </g>
+  <rect x="0" y="0" width="1200" height="92" fill="#0d1016"/>
+  <rect x="0" y="92" width="1200" height="2" fill="#282d38"/>
+  <g transform="translate(56,34)">
+    <rect x="4" y="4" width="26" height="26" rx="5" fill="none" stroke="#6e7cff" stroke-width="2.5" transform="rotate(45 17 17)"/>
+    <circle cx="17" cy="17" r="4" fill="#6e7cff"/>
+  </g>
+  <text x="104" y="58" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="3" fill="#eff1f6">KLIPIN<tspan fill="#6e7cff">.</tspan></text>
+  <rect x="252" y="30" width="86" height="30" rx="5" fill="none" stroke="#6e7cff" stroke-opacity="0.45"/>
+  <text x="295" y="51" font-family="Courier New, monospace" font-size="13" letter-spacing="2" fill="#8994ff" text-anchor="middle">STUDIO</text>
+  <circle cx="1020" cy="46" r="6" fill="#b9f5d0"/>
+  <text x="1040" y="52" font-family="Courier New, monospace" font-size="14" letter-spacing="2" fill="#5f6775">GROQ AI · ONLINE</text>
+
+  <text x="80" y="248" font-family="Courier New, monospace" font-size="17" letter-spacing="4" fill="#ff7b68">01 — SUMBER &amp; ANALISIS</text>
+  <text x="76" y="338" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" fill="#eff1f6">Tempel link,</text>
+  <text x="76" y="428" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" fill="#eff1f6">AI yang <tspan fill="#8994ff">mikir</tspan>.</text>
+  <text x="80" y="486" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#88909f">Momen terbaik + hook, dipotong langsung di browser.</text>
+
+  <g>
+    <rect x="80" y="560" width="320" height="210" rx="8" fill="#11141b" stroke="#282d38"/>
+    <rect x="80" y="560" width="320" height="104" rx="8" fill="#182034"/>
+    <circle cx="240" cy="612" r="21" fill="rgba(11,13,18,0.55)" stroke="#eff1f6" stroke-opacity="0.5"/>
+    <path d="M234 600 L252 612 L234 624 Z" fill="#eff1f6"/>
+    <rect x="94" y="630" width="72" height="22" rx="3" fill="rgba(8,11,17,0.8)"/>
+    <text x="130" y="646" font-family="Courier New, monospace" font-size="13" fill="#ffffff" text-anchor="middle">45 DTK</text>
+    <rect x="322" y="574" width="64" height="22" rx="3" fill="rgba(8,11,17,0.8)"/>
+    <text x="354" y="590" font-family="Courier New, monospace" font-size="12" fill="#b9f5d0" text-anchor="middle">SKOR 9</text>
+    <text x="98" y="700" font-family="Courier New, monospace" font-size="14" fill="#5f6775">01</text>
+    <text x="126" y="700" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#eff1f6">Hook yang bikin berhenti scroll</text>
+    <text x="98" y="732" font-family="Courier New, monospace" font-size="13" fill="#5f6775">2:00 → 2:45 · TIKTOK</text>
+  </g>
+  <g>
+    <rect x="440" y="560" width="320" height="210" rx="8" fill="#11141b" stroke="#282d38"/>
+    <rect x="440" y="560" width="320" height="104" rx="8" fill="#2a1e2e"/>
+    <circle cx="600" cy="612" r="21" fill="rgba(11,13,18,0.55)" stroke="#eff1f6" stroke-opacity="0.5"/>
+    <path d="M594 600 L612 612 L594 624 Z" fill="#eff1f6"/>
+    <rect x="454" y="630" width="72" height="22" rx="3" fill="rgba(8,11,17,0.8)"/>
+    <text x="490" y="646" font-family="Courier New, monospace" font-size="13" fill="#ffffff" text-anchor="middle">58 DTK</text>
+    <rect x="682" y="574" width="64" height="22" rx="3" fill="rgba(8,11,17,0.8)"/>
+    <text x="714" y="590" font-family="Courier New, monospace" font-size="12" fill="#f3c76b" text-anchor="middle">SKOR 8</text>
+    <text x="458" y="700" font-family="Courier New, monospace" font-size="14" fill="#5f6775">02</text>
+    <text x="486" y="700" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#eff1f6">Momen paling rame di stream</text>
+    <text x="458" y="732" font-family="Courier New, monospace" font-size="13" fill="#5f6775">9:12 → 10:10 · SHORTS</text>
+  </g>
+  <g>
+    <rect x="800" y="560" width="320" height="210" rx="8" fill="#11141b" stroke="#282d38"/>
+    <rect x="800" y="560" width="320" height="104" rx="8" fill="#14302a"/>
+    <circle cx="960" cy="612" r="21" fill="rgba(11,13,18,0.55)" stroke="#eff1f6" stroke-opacity="0.5"/>
+    <path d="M954 600 L972 612 L954 624 Z" fill="#eff1f6"/>
+    <rect x="814" y="630" width="72" height="22" rx="3" fill="rgba(8,11,17,0.8)"/>
+    <text x="850" y="646" font-family="Courier New, monospace" font-size="13" fill="#ffffff" text-anchor="middle">37 DTK</text>
+    <rect x="1042" y="574" width="64" height="22" rx="3" fill="rgba(8,11,17,0.8)"/>
+    <text x="1074" y="590" font-family="Courier New, monospace" font-size="12" fill="#b9f5d0" text-anchor="middle">SKOR 9</text>
+    <text x="818" y="700" font-family="Courier New, monospace" font-size="14" fill="#5f6775">03</text>
+    <text x="846" y="700" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#eff1f6">Caption otomatis dari Whisper</text>
+    <text x="818" y="732" font-family="Courier New, monospace" font-size="13" fill="#5f6775">14:02 → 14:39 · REELS</text>
+  </g>
+
+  <text x="80" y="838" font-family="Courier New, monospace" font-size="15" letter-spacing="3" fill="#5f6775">FLASK · GROQ LLM · WHISPER · FFMPEG.WASM</text>
+  <text x="1120" y="838" font-family="Courier New, monospace" font-size="15" letter-spacing="3" fill="#ff7b68" text-anchor="end">LIVE — KLIPIN-NATE.VERCEL.APP</text>
+</svg>
